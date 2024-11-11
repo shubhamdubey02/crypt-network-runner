@@ -3,8 +3,8 @@ module github.com/shubhamdubey02/crypt-network-runner
 go 1.19
 
 require (
-	github.com/MetalBlockchain/coreth v0.12.5-rc.1
-	github.com/MetalBlockchain/metalgo v1.10.8
+	github.com/MetalBlockchain/coreth v0.12.1-rc.0
+	github.com/MetalBlockchain/metalgo v1.10.0
 	github.com/ethereum/go-ethereum v1.12.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.15.2
 	github.com/onsi/ginkgo/v2 v2.8.1
